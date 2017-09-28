@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Restructure
 //
-//  Created by Student on 2017-09-27.
-//  Copyright © 2017 Centennial College. All rights reserved.
+//  Created by Santhosh & Fernando on 2017-09-27.
+//  Version : 1.0 - Build restructure application user interface
 //
 
 import UIKit
